@@ -13,6 +13,7 @@ sites:
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
   - name: iMagine dev training dashboard
     url: https://dashboard.dev.imagine-ai.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
 
   # Cookiecutter
   - name: AI4EOSC repository template generator
@@ -22,7 +23,7 @@ sites:
   # Cloud endpoints
   - name: Provider IFCA-LCG2   org.openstack.nova
     url: https://api.cloud.ifca.es:5000/v3
-    icon: https://raw.githubusercontent.com/deephdc/status/master/static/logo-ifca.png
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-ifca.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
