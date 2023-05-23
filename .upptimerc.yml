@@ -11,24 +11,30 @@ sites:
   - name: AI4EOSC dev training dashboard
     url: https://dashboard.dev.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    asignees: andresheca
   - name: iMagine dev training dashboard
     url: https://dashboard.dev.imagine-ai.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
+    asignees: andresheca
     
   # PAPI
   - name: AI4EOSC Platform API
     url: https://api.dev.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    asignees: IgnacioHeredia
+
 
   # Cookiecutter
   - name: AI4EOSC repository template generator
     url: https://templates.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    asignees: vykozlov
 
   # Cloud endpoints
   - name: Provider IFCA-LCG2   org.openstack.nova
     url: https://api.cloud.ifca.es:5000/v3
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-ifca.png
+    asignees: aidaph
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
