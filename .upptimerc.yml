@@ -12,6 +12,7 @@ sites:
     url: https://dashboard.dev.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     asignees: andresheca
+
   - name: iMagine dev training dashboard
     url: https://dashboard.dev.imagine-ai.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
@@ -23,18 +24,50 @@ sites:
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     asignees: IgnacioHeredia
 
-
   # Cookiecutter
   - name: AI4EOSC repository template generator
     url: https://templates.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     asignees: vykozlov
 
+  # PaaS orchestrator
+  - name: Indigo PaaS orchestrator - Provider INFN-CLOUD-BARI
+    url: https://indigo-paas.cloud.ba.infn.it
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-indigo.jpeg
+    asignees: maricaantonacci
+
+  # MinIO
+  - name: MinIO object storage - Provider UPV/GryCAP
+    url: https://console.minio.crazy-kowalevski5.im.grycap.net
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png
+    asignees: gmolto
+
+  # Oscar UI
+  - name: Oscar UI - Provider UPV/GryCAP
+    url: https://ui.oscar.grycap.net
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
+    asignees: gmolto
+
   # Cloud endpoints
-  - name: Provider IFCA-LCG2   org.openstack.nova
+  - name: Provider IFCA-LCG2 org.openstack.nova
     url: https://api.cloud.ifca.es:5000/v3
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-ifca.png
     asignees: aidaph
+
+  - name: Provider NCG-INGRID-PT (INCD) org.openstack.nova
+    url: https://stratus.ncg.ingrid.pt:5000/v3
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-incd.png
+    asignees: mariojmdavid
+
+  - name: Provider IISAS-FedCloud org.openstack.nova
+    url: https://cloud.ui.savba.sk:5000/v3
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-iisas.png
+    asignees: tdviet
+
+  - name: Provider INFN-CLOUD-BARI org.openstack.nova
+    url: https://cloud.recas.ba.infn.it:5000/v3
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-infn.png
+    asignees: maricaantonacci
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
