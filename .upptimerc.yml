@@ -8,18 +8,33 @@ sites:
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
 
   # Dashboards
-  - name: AI4EOSC dev training dashboard
+  - name: AI4EOSC training dashboard
+    url: https://dashboard.cloud.ai4eosc.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    asignees: andresheca
+
+  - name: AI4EOSC (dev) training dashboard
     url: https://dashboard.dev.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     asignees: andresheca
 
-  - name: iMagine dev training dashboard
+  - name: iMagine training dashboard
+    url: https://dashboard.cloud.imagine-ai.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
+    asignees: andresheca
+    
+  - name: iMagine (dev) training dashboard
     url: https://dashboard.dev.imagine-ai.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
     asignees: andresheca
     
   # PAPI
   - name: AI4EOSC Platform API
+    url: https://api.cloud.ai4eosc.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    asignees: IgnacioHeredia
+
+  - name: AI4EOSC Platform API (dev)
     url: https://api.dev.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     asignees: IgnacioHeredia
