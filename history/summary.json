@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-05": 162
+      "2023-06-05": 189
     }
   },
   {
@@ -70,19 +70,19 @@
     "url": "https://dashboard.cloud.imagine-ai.eu",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png",
     "slug": "i-magine-training-dashboard",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
+    "time": 983,
+    "timeDay": 983,
+    "timeWeek": 983,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2023-06-05": 162
+      "2023-06-05": 189
     }
   },
   {
@@ -137,18 +137,18 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-4-eosc-platform-api-dev",
     "status": "down",
-    "uptime": "36.78%",
-    "uptimeDay": "36.78%",
-    "uptimeWeek": "36.78%",
-    "uptimeMonth": "36.78%",
-    "uptimeYear": "36.78%",
+    "uptime": "31.43%",
+    "uptimeDay": "31.43%",
+    "uptimeWeek": "31.43%",
+    "uptimeMonth": "31.43%",
+    "uptimeYear": "31.43%",
     "time": 631,
     "timeDay": 631,
     "timeWeek": 631,
     "timeMonth": 631,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-06-05": 102
+      "2023-06-05": 129
     }
   },
   {
