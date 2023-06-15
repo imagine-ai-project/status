@@ -46,20 +46,20 @@ sites:
     asignees: vykozlov
 
   # PaaS orchestrator
-  - name: Indigo PaaS orchestrator - Provider INFN-CLOUD-BARI
+  - name: INDIGO PaaS orchestrator - Provider INFN-CLOUD-BARI
     url: https://indigo-paas.cloud.ba.infn.it
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-indigo.jpeg
     asignees: maricaantonacci
 
   # MinIO
-  - name: MinIO object storage - Provider UPV/GryCAP
+  - name: MinIO object storage - Provider UPV/GRyCAP
     url: https://console.minio.crazy-kowalevski5.im.grycap.net
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png
     asignees: gmolto
 
-  # Oscar UI
-  - name: Oscar UI - Provider UPV/GryCAP
-    url: https://ui.oscar.grycap.net
+  # OSCAR UI
+  - name: OSCAR UI - Provider UPV/GRyCAP
+    url: https://inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
     asignees: gmolto
 
