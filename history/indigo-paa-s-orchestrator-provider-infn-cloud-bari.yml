@@ -1,7 +1,7 @@
 url: https://indigo-paas.cloud.ba.infn.it
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-06-18T23:09:09.356Z
+code: 502
+responseTime: 889
+lastUpdated: 2023-06-19T23:07:59.098Z
 startTime: Tue May 23 2023 14:38:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
