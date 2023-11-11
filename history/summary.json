@@ -191,7 +191,7 @@
     "slug": "ai-4-eosc-platform-api-dev",
     "status": "up",
     "uptime": "96.49%",
-    "uptimeDay": "93.30%",
+    "uptimeDay": "95.74%",
     "uptimeWeek": "98.58%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "96.49%",
@@ -242,19 +242,19 @@
     "url": "https://jenkins.indigo-datacloud.eu/",
     "icon": "https://www.jenkins.io/images/jenkins-logo-title-dark.svg",
     "slug": "ai-4-eosc-jenkins-ci-cd-system",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1270,
-    "timeDay": 1462,
-    "timeWeek": 1299,
-    "timeMonth": 1270,
-    "timeYear": 1270,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1293,
+    "timeDay": 1528,
+    "timeWeek": 1339,
+    "timeMonth": 1293,
+    "timeYear": 1293,
     "dailyMinutesDown": {
-      "2023-11-11": 1
+      "2023-11-11": 35
     }
   },
   {
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 2333,
     "dailyMinutesDown": {
-      "2023-11-11": 719,
+      "2023-11-11": 754,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
@@ -567,7 +567,7 @@
     "timeMonth": 0,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2023-11-11": 719,
+      "2023-11-11": 755,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
