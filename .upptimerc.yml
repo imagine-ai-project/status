@@ -14,7 +14,7 @@ sites:
     asignees: andresheca
 
   - name: AI4EOSC (tutorials) training dashboard
-    url: https://dashboard.cloud.ai4eosc.eu
+    url: https://tutorials.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     asignees: andresheca
 
