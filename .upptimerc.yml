@@ -64,7 +64,14 @@ sites:
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     assigness:
       - mariojmdavid
-      
+
+  - name: AI4OS NextCloud storage (old instance)
+    url: https://data-deep.a.incd.pt/
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    assigness:
+      - mariojmdavid
+      - alvarolopez
+
   # CI/CD
   - name: AI4EOSC Jenkins CI/CD system
     url: https://jenkins.indigo-datacloud.eu/
