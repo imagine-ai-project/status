@@ -1,27 +1,13 @@
 # Change these first
-owner: AI4EOSC # Your GitHub organization or username, where this repository lives
+owner: imagine-ai-project # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
-  - name: AI4EOSC
-    url: https://ai4eosc.eu
+  - name: iMagine
+    url: https://imagine-ai.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
 
   # Dashboards
-  - name: AI4EOSC training dashboard
-    url: https://dashboard.cloud.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: andresheca
-
-  - name: AI4EOSC (tutorials) training dashboard
-    url: https://tutorials.cloud.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: andresheca
-
-  - name: AI4EOSC (dev) training dashboard
-    url: https://dashboard.dev.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: andresheca
 
   - name: iMagine training dashboard
     url: https://dashboard.cloud.imagine-ai.eu
@@ -34,25 +20,25 @@ sites:
     asignees: andresheca
     
   # PAPI
-  - name: AI4EOSC Platform API
+  - name: Platform API
     url: https://api.cloud.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
     asignees: IgnacioHeredia
 
-  - name: AI4EOSC Platform API (dev)
+  - name: Platform API (dev)
     url: https://api.dev.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
     asignees: IgnacioHeredia
 
   # Cookiecutter
-  - name: AI4EOSC repository template generator
+  - name: Repository template generator
     url: https://templates.cloud.ai4eosc.eu/
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
     assignees:
       - vykozlov
       
   # Registry
-  - name: AI4OS container registry
+  - name: Container registry
     url: https://registry.services.ai4os.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     assigness:
@@ -65,37 +51,18 @@ sites:
     assigness:
       - mariojmdavid
 
-  - name: AI4OS NextCloud storage (old instance)
-    url: https://data-deep.a.incd.pt/
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    assigness:
-      - mariojmdavid
-      - alvarolopez
-
   # CI/CD
-  - name: AI4EOSC Jenkins CI/CD system
-    url: https://jenkins.indigo-datacloud.eu/
+  - name: AI4OS Jenkins CI/CD system
+    url: https://jenkins.cloud.ai4eosc.eu/
     icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
     assignees: 
       - alvarolopez
       - IgnacioHeredia
       - vykozlov
 
-  # PaaS orchestrator
-  # - name: INDIGO PaaS orchestrator - Provider INFN-CLOUD-BARI
-  #   url: https://indigo-paas.cloud.ba.infn.it
-  #   icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-indigo.jpeg
-  #   asignees: maricaantonacci
-
-  # MinIO
-  - name: MinIO object storage - Provider UPV/GRyCAP
-    url: https://console.minio.crazy-kowalevski5.im.grycap.net
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png
-    asignees: gmolto
-
   # OSCAR UI
   - name: OSCAR UI - Provider UPV/GRyCAP
-    url: https://inference.cloud.ai4eosc.eu
+    url: https://inference.cloud.imagine-ai.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
     asignees: gmolto
     
@@ -111,31 +78,16 @@ sites:
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-ifca.png
     asignees: aidaph
 
-  - name: Provider NCG-INGRID-PT (INCD) org.openstack.nova
-    url: https://stratus.ncg.ingrid.pt:5000/v3
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-incd.png
-    asignees: mariojmdavid
-
-  - name: Provider IISAS-FedCloud org.openstack.nova
-    url: https://cloud.ui.savba.sk:5000/v3
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-iisas.jpeg
-    asignees: tdviet
-
-  # - name: Provider INFN-CLOUD-BARI org.openstack.nova
-  #   url: https://cloud.recas.ba.infn.it:5000/v3
-  #   icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-infn.png
-  #   asignees: maricaantonacci
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.ai4eosc.eu
+  cname: status.imagine-ai.eu
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+  logoUrl: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
   theme: light
-  name: AI4EOSC service and platform status
-  introTitle: "AI platform for the European Open Science Cloud."
-  introMessage: This page provides a real time overview of the [AI4EOSC](https://ai4eosc.eu) platform and services status.
+  name: iMagine platform status
+  introTitle: "Imaging data and services for aquatic science."
+  introMessage: This page provides a real time overview of the [iMagine](https://imagine-ai.eu) AI platform and services status.
   navbar:
     - title: Status
       href: /
