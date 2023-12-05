@@ -53,7 +53,7 @@ sites:
 
   # CI/CD
   - name: AI4OS Jenkins CI/CD system
-    url: https://jenkins.cloud.ai4eosc.eu/
+    url: https://jenkins.services.ai4os.eu/
     icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
     assignees: 
       - alvarolopez
